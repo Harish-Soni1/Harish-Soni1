@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Harish-Soni1</h1>
-<h3 align="center">A passionate Data Scientist and Nodejs developer from India</h3>
+<h3 align="center">A passionate Data Scientist. I can help you with machine learning. And soon I will available with deep learning concepts Specialized Skills in:- Python Machine Learning Data Science</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=harish-soni1&label=Profile%20views&color=0e75b6&style=flat" alt="harish-soni1" /> </p>
 
