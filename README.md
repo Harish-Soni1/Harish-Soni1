@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Harish Soni</h1>
-<h3 align="center">A passionate Data Scientist. I can help you with machine learning and  deep learning concepts Specialized Skills in:- Python Machine Learning Deep Learning Data Science</h3>
+<h3 align="center">A Back-end developer and passionate Data Scientist, I have a keen interest in AI and how it is evolving to solve our daily problems.
+An Data Practitioner who like to build model that translates data points into business insights. </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=harish-soni1&label=Profile%20views&color=0e75b6&style=flat" alt="harish-soni1" /> </p>
 
