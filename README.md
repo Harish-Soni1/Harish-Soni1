@@ -31,5 +31,4 @@ An Data Practitioner who like to build model that translates data points into bu
 </a>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=harish-soni1&show_icons=true&locale=en&layout=compact" alt="harish-soni1" /></p>
-
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=harish-soni1&show_icons=true&locale=en" alt="harish-soni1" /></p>
