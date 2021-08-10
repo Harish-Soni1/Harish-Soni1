@@ -26,6 +26,10 @@ An Data Practitioner who like to build model that translates data points into bu
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='30'>](https://www.linkedin.com/in/Harish-Soni1/) 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='30'>](https://www.instagram.com/Harish-Soni1/)
 
+<a href="https://github.com/ryo-ma/github-profile-trophy">
+<img width=800 src="https://github-profile-trophy.vercel.app/?username=Harish-Soni1&column=6"/>
+</a>
+
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=harish-soni1&show_icons=true&locale=en&layout=compact" alt="harish-soni1" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=harish-soni1&show_icons=true&locale=en" alt="harish-soni1" /></p>
