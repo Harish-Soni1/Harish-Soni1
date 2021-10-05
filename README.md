@@ -4,11 +4,11 @@ An Data Practitioner who like to build model that translates data points into bu
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=harish-soni1&label=Profile%20views&color=0e75b6&style=flat" alt="harish-soni1" /> </p>
 
-- 🔭 I’m currently working in **GTS InfoSoft LLP**
+- 🔭 I’m currently working in **Nexxio Technologies**
 
-- 🌱 I’m currently learning **NLP**
+- 🌱 I’m currently learning **BlockChain**
 
-- 👯 I’m looking to collaborate on **VisionToCode**
+- 👯 I’m looking to collaborate on **RoadVision**
 
 - 👨‍💻 All of my projects are available at [https://www.github.com/harish-soni1](https://www.github.com/harish-soni1)
 
