@@ -21,6 +21,9 @@ An Data Practitioner who like to build model that translates data points into bu
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
+<img align="left" alt="Detectron2" width="100px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRM2RwKXC2YkEVLDshDBGhnhuzmlg3EkhOwg2dc2I3ScLJJdV2fzrJiZ4XqKcTeiSNngYY&usqp=CAU" />
+<img align="left" alt="YOLO" width="50px" src="https://i.pinimg.com/originals/c8/4c/d6/c84cd6231804a0759dce57bce4bef01a.png" />
+<img align="left" alt="Visual Studio Code" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png"/>
 <a href="https://www.djangoproject.com/" target="_blank"> 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-original.svg" alt="django" width="40" height="40"/> </a> 
 <a href="https://flask.palletsprojects.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a>
