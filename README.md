@@ -59,5 +59,5 @@ An Data Practitioner who like to build model that translates data points into bu
 <img width=800 src="https://github-profile-trophy.vercel.app/?username=Harish-Soni1&column=6"/>
 </a>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api?username=harish-soni1&show_icons=true&locale=en" alt="Harish-Soni1" /> &nbsp;
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Harish-Soni1&show_icons=true&locale=en&layout=compact" alt="Harish-Soni1" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api?username=harish-soni1&show_icons=true&locale=en&count_private=true" alt="Harish-Soni1" /> &nbsp;
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Harish-Soni1&show_icons=true&locale=en&layout=compact&count_private=true" alt="Harish-Soni1" /></p>
