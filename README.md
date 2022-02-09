@@ -8,7 +8,7 @@ An Data Practitioner who like to build model that translates data points into bu
 
 - 🌱 I’m currently learning **BlockChain**
 
-- 👯 I’m looking to collaborate on <a href="https://github.com/Harish-Soni1/RoadVision">**RoadVision**</a>
+- 👯 I’m looking to collaborate on <a href="https://github.com/Harish-Soni1/RoadVision">**AI and BlockChain**</a>
 
 - 👨‍💻 All of my projects are available at [https://www.github.com/harish-soni1](https://www.github.com/harish-soni1)
 
