@@ -74,11 +74,11 @@ I specialize in LLM-based applications, computer vision, NLP, and microservice a
 
 ---
 
-### 🏆 GitHub Achievements
+<h3 align="left">🏆 GitHub Achievements</h3>
 
-<a href="https://github.com/ryo-ma/github-profile-trophy">
-  [![trophy](https://github-profile-trophy.vercel.app/?username=Harish-Soni1&theme=onedark)](https://github.com/Harish-Soni1/github-profile-trophy)
-</a>
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Harish-Soni1&row=1&column=6" />
+</p>
 
 ---
 
